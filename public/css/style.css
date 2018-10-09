@@ -1,0 +1,24 @@
+
+.cadre{
+    border: 5px double lightgray ;
+    height: 60px;
+
+}
+.cadre1{
+    border: 5px double lightgray ;
+    height: 500px;
+    width: 1335px;
+}
+#trait{
+    border-right: 5px double lightgray ;
+    height: 490px;
+
+}
+
+.folder_style {
+    margin-bottom: 10px;
+}
+
+.file_zone:hover {
+    background-color: #c1f8f5;
+}

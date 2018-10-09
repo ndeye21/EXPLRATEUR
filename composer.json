@@ -1,0 +1,12 @@
+{
+    "name": "aliou-sow/explorateur_de_fichier",
+    "authors": [
+        {
+            "name": "Aliou-Sow",
+            "email": "sowalils1992@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "~1.0"
+    }
+}
